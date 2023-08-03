@@ -1,0 +1,2 @@
+from .discord_discovery import DiscordDiscovery
+from .modified_discord_discovery import ModifiedDiscordDiscovery
